@@ -1,0 +1,8 @@
+Procedure  SumOfTwoNumbers
+
+    num1= input number for num1
+    num2 = input number for num2
+    sum = num1 + num2
+    print sum
+
+End Procedure
