@@ -11,3 +11,12 @@
 
   ## **DAY 3 Challenge:**
  - Write a Pseudocode to Check Even or Odd
+
+ >>>>>>>>>>>>>
+
+   ## **DAY 4 Challenge:**
+ - Write a Pseudocode to calculate the factorial of a number
+
+
+
+ 
