@@ -1,0 +1,9 @@
+Procedure CheckEvenOrOdd
+
+    Enter a number (num)
+    IF num % 2 == 0
+        print "The number is even"
+    ELSE
+        print "The number is odd"
+
+End Procedure
