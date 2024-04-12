@@ -16,7 +16,3 @@
 
    ## **DAY 4 Challenge:**
  - Write a Pseudocode to calculate the factorial of a number
-
-
-
- 
