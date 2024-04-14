@@ -16,3 +16,9 @@
 
    ## **DAY 4 Challenge:**
  - Write a Pseudocode to calculate the factorial of a number
+
+
+ >>>>>>>>>>>>>
+
+   ## **DAY 4 Challenge:**
+ - Write a Pseudocode to check if a number is prime

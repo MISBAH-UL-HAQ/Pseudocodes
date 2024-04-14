@@ -1,0 +1,14 @@
+Procedure CheckPrime
+
+    INPUT n
+    i = 2
+    answer = "prime"
+    WHILE i <= sqrt(n)
+        IF n MOD i == 0
+            answer = "not prime"
+            BREAK
+        i = i + 1
+    END WHILE
+    OUTPUT answer
+
+End Procedure
