@@ -20,5 +20,11 @@
 
  >>>>>>>>>>>>>
 
-   ## **DAY 4 Challenge:**
+   ## **DAY 5 Challenge:**
  - Write a Pseudocode to check if a number is prime
+
+
+  >>>>>>>>>>>>>
+
+   ## **DAY 6 Challenge:**
+ - Write a Pseudocode to Swap Two Numbers 
