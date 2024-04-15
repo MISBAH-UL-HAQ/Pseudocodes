@@ -1,9 +1,12 @@
 Procedure SwapTwoNumbers
 
-     Declare a, b, temp
-     temp=a
-     a=b
-     b=temp
-     Display the value of a and b
+     
+    Declare variables a, b, temp
+    Set temp = a
+    Set a = b
+    Set b = temp
+    Display the value of a and b
+
+
 
 End Procedure
