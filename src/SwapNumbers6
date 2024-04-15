@@ -1,0 +1,9 @@
+Procedure SwapTwoNumbers
+
+     Declare a, b, temp
+     temp=a
+     a=b
+     b=temp
+     Display the value of a and b
+
+End Procedure
