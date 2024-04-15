@@ -2,8 +2,8 @@ Procedure FactorialOfNumber
 
     factorial = 1
     num = input number
-    for i in range(1, num + 1):
-        factorial *= i
-    print(factorial)
-
-End Prodcedure
+    for i from 1 to num:
+        factorial = factorial * i
+    print factorial
+    
+End Procedure
