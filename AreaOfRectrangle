@@ -1,0 +1,10 @@
+Procedure  AreaOfRectrangle
+
+    width= num1  
+    height=num2
+    area=width*height  
+    print(area)
+    
+End Procedure
+
+
