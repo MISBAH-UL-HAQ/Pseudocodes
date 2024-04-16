@@ -1,10 +1,12 @@
 Procedure  AreaOfRectrangle
 
-    width= num1  
-    height=num2
-    area=width*height  
-    print(area)
-    
+
+    Input length of the rectangle (length)
+    Input width of the rectangle (width)
+    Calculate the area using the formula: area = length * width
+    Output the calculated area
+
+
 End Procedure
 
 
