@@ -28,3 +28,8 @@
 
    ## **DAY 6 Challenge:**
  - Write a Pseudocode to Swap Two Numbers 
+
+   >>>>>>>>>>>>>
+
+   ## **DAY 7 Challenge:**
+ - Write a Pseudocode to find Area Of Rectrangle 
