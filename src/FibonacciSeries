@@ -1,0 +1,21 @@
+Procedure FibonacciSeries
+
+    function fibonacci_series(limit):
+    // Initialize variables
+    a = 0
+    b = 1
+    
+    // Print the first Fibonacci number
+    print(a)
+    
+    // Loop to generate Fibonacci numbers up to the limit
+    while b <= limit:
+        // Print the current Fibonacci number
+        print(b)
+        
+        // Calculate the next Fibonacci number
+        temp = a
+        a = b
+        b = temp + b
+
+End Procedure
