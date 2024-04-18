@@ -33,3 +33,9 @@
 
    ## **DAY 7 Challenge:**
  - Write a Pseudocode to find Area Of Rectrangle 
+
+
+  >>>>>>>>>>>>>
+
+   ## **DAY 8 Challenge:**
+ - Write a Pseudocode to find the Fibonacci Series upto a given limit 
